@@ -1,0 +1,240 @@
+[33mcommit ae8f10ed8abdba1ee91269e8295ce432ed264380[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: GauravSharma1199 <gaurav25.sharma99@gmail.com>
+Date:   Sat May 17 22:44:31 2025 +0530
+
+    add default host name
+
+[33mcommit 5f07b3b98282bb030c9b0150cb54cf4817915e15[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: github-actions <github-action@github.com>
+Date:   Thu May 15 17:32:03 2025 +0000
+
+    bump the image version build-df9f750715941d9cd2d80cf31598da85e966eec8
+
+[33mcommit df9f750715941d9cd2d80cf31598da85e966eec8[m
+Merge: 17385e8 225ac85
+Author: Rakesh K <62266237+codersgyan@users.noreply.github.com>
+Date:   Thu May 15 20:31:23 2025 +0300
+
+    Merge pull request #8 from codersgyan/feat/5
+    
+    add sha
+
+[33mcommit 225ac85a5e1a49ecbc666f0aa8e53ba87481a9b1[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Thu May 15 20:30:32 2025 +0300
+
+    add sha
+
+[33mcommit 17385e87f81922a47520f96ca69b81a9bb7f0221[m
+Author: github-actions <github-action@github.com>
+Date:   Thu May 15 17:26:49 2025 +0000
+
+    bump the image version build-4
+
+[33mcommit e4efc04e996a0e5e9cfea1d7089f8ed05030e48e[m
+Merge: 3f44a2a 7b11d8c
+Author: Rakesh K <62266237+codersgyan@users.noreply.github.com>
+Date:   Thu May 15 20:26:04 2025 +0300
+
+    Merge pull request #7 from codersgyan/feat/4
+    
+    scale to 2
+
+[33mcommit 7b11d8c021bb502aca1f174404a5940573821e3a[m
+Merge: 5fcb497 3f44a2a
+Author: Rakesh K <62266237+codersgyan@users.noreply.github.com>
+Date:   Thu May 15 20:25:23 2025 +0300
+
+    Merge branch 'main' into feat/4
+
+[33mcommit 5fcb497e6ac61f5412279f399dea12d711ef82ee[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Thu May 15 20:23:05 2025 +0300
+
+    scale to 2
+
+[33mcommit 3f44a2a9ffc1f629e76b32d2f5f5be2a759106a7[m
+Author: github-actions <github-action@github.com>
+Date:   Thu May 15 17:20:18 2025 +0000
+
+    bump the image version build-3
+
+[33mcommit 11d85e46a14ba4991b65ab25c82cbe679bc90f11[m
+Merge: 80841df 386933d
+Author: Rakesh K <62266237+codersgyan@users.noreply.github.com>
+Date:   Thu May 15 20:19:37 2025 +0300
+
+    Merge pull request #6 from codersgyan/feat/4
+    
+    change page title
+
+[33mcommit 386933d4a3770510b897b379b353212b1f22ce13[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Thu May 15 20:18:28 2025 +0300
+
+    change page title
+
+[33mcommit 80841df0f13b20d8918a7b36b8e1d4c59be0d1be[m
+Author: github-actions <github-action@github.com>
+Date:   Thu May 15 17:13:54 2025 +0000
+
+    bump the image version build-2
+
+[33mcommit 6a1fdbef5f71557e6437a8ce313f37a333e15f26[m
+Merge: 0622635 e2908f8
+Author: Rakesh K <62266237+codersgyan@users.noreply.github.com>
+Date:   Thu May 15 20:08:18 2025 +0300
+
+    Merge pull request #5 from codersgyan/feat/2
+    
+    Feat/2
+
+[33mcommit e2908f8606a4fd212e5b1dcb0fe08b6c395977ce[m
+Merge: 8387cec 0622635
+Author: Rakesh K <62266237+codersgyan@users.noreply.github.com>
+Date:   Thu May 15 20:07:52 2025 +0300
+
+    Merge branch 'main' into feat/2
+
+[33mcommit 8387cec02fa71437f2e6aebff0f491b5b570b348[m
+Merge: 26082f5 8761ec0
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Thu May 15 20:06:22 2025 +0300
+
+    Merge branch 'feat/2' of github.com:codersgyan/bloggy-devops into feat/2
+
+[33mcommit 26082f53423d5d3cb91d9b014ec06756e9d3444e[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Thu May 15 20:05:17 2025 +0300
+
+    add deployment
+
+[33mcommit 06226353dc51c6d128736b76d02e23e31b9dbbe4[m
+Merge: 425e66f 8761ec0
+Author: Rakesh K <62266237+codersgyan@users.noreply.github.com>
+Date:   Thu May 15 19:25:32 2025 +0300
+
+    Merge pull request #4 from codersgyan/feat/2
+    
+    add cd
+
+[33mcommit 8761ec0366e4dc1988229e6373567ea3a05b3423[m
+Merge: 09705ac 425e66f
+Author: Rakesh K <62266237+codersgyan@users.noreply.github.com>
+Date:   Thu May 15 19:24:59 2025 +0300
+
+    Merge branch 'main' into feat/2
+
+[33mcommit 09705acf7b5dfd249b3a4e820f77878feae2f484[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Thu May 15 19:24:13 2025 +0300
+
+    move cd to its own file
+
+[33mcommit 82441aba5c037c60030713569b1543607abd8cb4[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Thu May 15 19:16:13 2025 +0300
+
+    add cd
+
+[33mcommit 425e66fe6b673a7c0f97534a0c4de89c4bde8391[m
+Merge: 6bc7d9e 9d0fd72
+Author: Rakesh K <62266237+codersgyan@users.noreply.github.com>
+Date:   Tue May 13 20:31:24 2025 +0300
+
+    Merge pull request #3 from codersgyan/feat/2
+    
+    Feat/2
+
+[33mcommit 9d0fd72ddc2f61a1a56e35d0d733fb05f9397efe[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Tue May 13 20:30:21 2025 +0300
+
+    fix fail
+
+[33mcommit 86e4ecf6784c12a709bcf69ac01cf58d85b8431a[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Tue May 13 20:28:46 2025 +0300
+
+    simulate fail
+
+[33mcommit c8e272d74dcef8f21a1ab1b7a094a7f70de3361f[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Tue May 13 20:28:18 2025 +0300
+
+    add duper
+
+[33mcommit 6bc7d9e825291c977ed446559b8ad74f8aa7d531[m
+Merge: 4ba9f02 fc5e383
+Author: Rakesh K <62266237+codersgyan@users.noreply.github.com>
+Date:   Tue May 13 20:25:53 2025 +0300
+
+    Merge pull request #1 from codersgyan/feat/1
+    
+    add super status
+
+[33mcommit fc5e38383347421ad5e6b3e1695a50d6d85e648d[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Tue May 13 20:21:32 2025 +0300
+
+    change ci
+
+[33mcommit 37c3b26d72f569d63e379d0e5178436c747dc5c7[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Tue May 13 20:14:19 2025 +0300
+
+    add super status
+
+[33mcommit 4ba9f02840701295ce0397d770d75b7173dc6a71[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Tue May 13 20:02:25 2025 +0300
+
+    rename .mjs
+
+[33mcommit 615a0a25ade5fe1b6ac113af59b27d4cdba20435[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Tue May 13 20:00:16 2025 +0300
+
+    add matrix
+
+[33mcommit f44bfe2af30b1e8026d208bf516bd71f58eaa2e2[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Tue May 13 19:53:23 2025 +0300
+
+    fix the fails
+
+[33mcommit 0487a567d89ffbd929014540ebe7b14fdfcfda0a[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Tue May 13 19:51:18 2025 +0300
+
+    simulate fails
+
+[33mcommit 524dcb0dcb77506fe004fcfee602415d5e0c7dce[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Tue May 13 19:45:40 2025 +0300
+
+    add github action
+
+[33mcommit 5f9aa6a54bc8cfd11bc44013d09ae52cc95d022d[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Tue May 13 19:20:44 2025 +0300
+
+    add unknown version
+
+[33mcommit 409cc11c9238224f53869198479469260ccb2268[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Tue May 13 19:17:36 2025 +0300
+
+    remove version
+
+[33mcommit 25d536ac1cc8cd2c5ca66ca240278b741b8a26ee[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Tue May 13 19:16:58 2025 +0300
+
+    change husky
+
+[33mcommit 1cc2e8443e40591ed42c23512105f75a07604a77[m
+Author: Rakesh K <codersgyan@gmail.com>
+Date:   Tue May 13 17:46:15 2025 +0300
+
+    initial
